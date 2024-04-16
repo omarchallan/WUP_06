@@ -74,6 +74,8 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+With the white people, there are 65% of them who are in favor while 35% are opposing capitol punishment. With the group of "other" there are 55% who are in favor while 45% are opposed. With the population of black people, there are 43% who are in favor while 57% are opposed to the idea of capitol punishment.   
+
 ## Now with More data
 
 
