@@ -92,6 +92,8 @@ fisher.test(table1)
 fisherXY (mydata$race,mydata$cappun, printAll=TRUE)
 ```
 
+Based on the data above, we can say that 1300 white individuals favors capital punishment, whereas 697 were against it. Among other ethnic groups, 138 were in favor, and 112 were opposed. In the black population, 191 individuals favored capital punishment, while 257 were against it. The FisherXY test results indicate significant differences between each racial group, making all t-test results statistically significant. 
+
 ## More data version
 
 
