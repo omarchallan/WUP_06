@@ -59,6 +59,9 @@ barchartGC(~race + cappun,data=mydata)
 barchartGC(~race + cappun,data=mydata, type="percent")
 ``` 
 
+The graph shows that white are favoring capitol punishment the most. Next is other and the least supportive of capitol punishment is the black.  
+
+
 ## Now with The Most data (fewer variables gives more data points)
 
 
