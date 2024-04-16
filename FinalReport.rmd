@@ -61,17 +61,18 @@ barchartGC(~race + cappun,data=mydata, type="percent")
 
 The graph shows that white are favoring capitol punishment the most. Next is other and the least supportive of capitol punishment is the black.  
 
-
 ## Now with The Most data (fewer variables gives more data points)
-
 
 
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
-
-
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
 
 ## Now with More data
 
